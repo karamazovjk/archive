@@ -1,2 +1,1 @@
-# studyinput
-notas, organização de idéias, links, programas, códigos entre outras ferramentas
+grouping of websites, applications, tools and everything that can be used for college or extracurricular studies
