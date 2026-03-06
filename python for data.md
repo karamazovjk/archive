@@ -1,7 +1,22 @@
 # Python para Análise de Dados — Guia de Referência
-> Foco em leitura, compreensão e correção de código. Não é um curso do zero — é o mapa do que você vai encontrar no dia a dia.
-
+> Foco em leitura, compreensão e correção de código.
 ---
+
+## Glossário Rápido
+
+| Termo | Significado |
+|-------|-------------|
+| `DataFrame` | Tabela (linhas + colunas) do pandas |
+| `Series` | Uma única coluna do pandas |
+| `NaN` | Valor nulo / ausente |
+| `dtype` | Tipo de dado (int, float, str, datetime...) |
+| `index` | O "número da linha" do DataFrame (não necessariamente 0,1,2...) |
+| `feature` | Variável de entrada de um modelo (coluna preditora) |
+| `target` | O que o modelo tenta prever |
+| `overfitting` | Modelo que decorou o treino mas não generaliza |
+| `pipeline` | Sequência encadeada de transformações + modelo |
+| `EDA` | Exploratory Data Analysis — exploração inicial dos dados |
+
 
 ## 1. As Bibliotecas que Você Vai Ver em Todo Lugar
 
@@ -283,17 +298,3 @@ Notebooks `.ipynb` são divididos em células. Cada célula pode ser código ou 
 
 ---
 
-## 10. Glossário Rápido
-
-| Termo | Significado |
-|-------|-------------|
-| `DataFrame` | Tabela (linhas + colunas) do pandas |
-| `Series` | Uma única coluna do pandas |
-| `NaN` | Valor nulo / ausente |
-| `dtype` | Tipo de dado (int, float, str, datetime...) |
-| `index` | O "número da linha" do DataFrame (não necessariamente 0,1,2...) |
-| `feature` | Variável de entrada de um modelo (coluna preditora) |
-| `target` | O que o modelo tenta prever |
-| `overfitting` | Modelo que decorou o treino mas não generaliza |
-| `pipeline` | Sequência encadeada de transformações + modelo |
-| `EDA` | Exploratory Data Analysis — exploração inicial dos dados |
