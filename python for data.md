@@ -1,5 +1,5 @@
 # Python para Análise de Dados — Guia de Referência
-> Foco em leitura, compreensão e correção de código.
+> Guia de estudos, foco em leitura, compreensão e correção de código.
 ---
 
 ## Glossário Rápido
