@@ -2,7 +2,7 @@
 
 **O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias. Em breve novo workflow de veificação de status de cada site!**
 
-°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°
+°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°
 ### cursos e treinamentos
 
 - ![IFRS](https://moodle.ifrs.edu.br/course/index.php)
