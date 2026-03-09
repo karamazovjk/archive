@@ -37,3 +37,7 @@
 
 
 ----------------------------
+
+### utilidades
+
+- [Jailbreak Kindle 10º](/jailbreak)
