@@ -16,13 +16,14 @@
 - ![IntitulaCursos](https://intitulacursos.com.br/curso/neurociencia-comportamental)
 
 ----------------------------
-### ler livros, artigos e papers
+### ler e/ou baixar livros, artigos e papers
 
 - ![Anna's Archive](https://pt.annas-archive.org/)
 - ![Biblioteca Mundial](https://bibliotecamundial.com.br/)
 - ![Archive](https://archive.org/)
 - [Substack](https//substack.com)
 - [Research Gate](https://www.researchgate.net/)
+- [Academia.edu](https://www.academia.edu/)
 
 
 ---------------------------
