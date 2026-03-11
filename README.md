@@ -1,4 +1,4 @@
-# [armazém de links úteis]
+# [armazém de links]
 
 **O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias. Em breve novo workflow de verificação de status de cada site!**
 
