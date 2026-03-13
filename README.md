@@ -9,7 +9,7 @@
 - ![IFRS](https://moodle.ifrs.edu.br/course/index.php)
 - ![Data Science Academy](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia)
 - ![Microsoft Learn](https://learn.microsoft.com/pt-br/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
-- ![Kaggle](https://www.kaggle.com/)
+- ![Kaggle](https://www.kaggle.com)
 - ![EdX Harvard](https://pll.harvard.edu/course/data-science-productivity-tools/2025-10)
 - ![Câmara B3](https://edu.b3.com.br/w/camara-b3-2)
 - ![Santander Open Acaddemy](https://app.santanderopenacademy.com/pt-BR/program/search?)
