@@ -6,8 +6,10 @@
 
 ---------------------
 ### alguns links que utilizei
-https://github.com/koreader/koreader/releases
-https://crowned.github.io/kindlesaver/#
-https://kindlemodding.org/jailbreaking/post-jailbreak/disable-ota.html
-https://rekindle.ink/
-https://kindlemodshelf.me/index.html
+- [Koreader](https://github.com/koreader/koreader/releases)
+- [Kindlesaver](https://crowned.github.io/kindlesaver/#)
+- [Disable Ota](https://kindlemodding.org/jailbreaking/post-jailbreak/disable-ota.html)
+- [Rekindle](https://rekindle.ink/)
+- [Modshelf](https://kindlemodshelf.me/index.html)
+
+------------------------------
