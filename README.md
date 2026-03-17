@@ -1,6 +1,6 @@
 # [armazém de links]
 
-**O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias. Em breve novo workflow de verificação de status de cada site!**
+**O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias.
 
 °❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°
 ### cursos e treinamentos
@@ -21,14 +21,18 @@
 ----------------------------
 ### ler e/ou baixar livros, artigos e papers
 
-- ![Anna's Archive](https://pt.annas-archive.org/)
+- ![Anna's Archive]((https://annas-archive.gl/))
 - ![Biblioteca Mundial](https://bibliotecamundial.com.br/)
 - ![Archive](https://archive.org/)
 - [Substack](https//substack.com)
 - [Research Gate](https://www.researchgate.net/)
 - [Academia.edu](https://www.academia.edu/)
+- [Welib](https://welib.org/)
+- [Liber3](https://liber3.eth.limo/#/?)
+- [Memoryoftheworld](https://library.memoryoftheworld.org/#)
+- [Z-library](https://z-library.sk/)
 
-
+  
 ---------------------------
 
 ### ferramentas de estudo
@@ -44,6 +48,7 @@
 
 ### utilidades
 
+- [OpenSlumPages](https://open-slum.pages.dev/) - verificador de satatus de site
 - [Jailbreak Kindle 10º](/jailbreak)
 - [World Monitor](https://tech.worldmonitor.app/?lat=20.0000&lon=0.0000&zoom=1.00&view=global&timeRange=7d&layers=outages%2Cdatacenters%2Cnatural%2Caccelerators%2CtechEvents)
 - [Cambridge english test](https://www.cambridgeenglish.org/br/test-your-english/)
