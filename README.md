@@ -53,10 +53,9 @@
 
 ### utilidades
 
-- [OpenSlumPages](https://open-slum.pages.dev/) - verificador de satatus de site
-- [Jailbreak Kindle 10º](/jailbreak)
+- [OpenSlumPages](https://open-slum.pages.dev/)
+- [Jailbreak Kindle 10º](/jailbreak) 
 - [World Monitor](https://tech.worldmonitor.app/?lat=20.0000&lon=0.0000&zoom=1.00&view=global&timeRange=7d&layers=outages%2Cdatacenters%2Cnatural%2Caccelerators%2CtechEvents)
-- [Cambridge english test](https://www.cambridgeenglish.org/br/test-your-english/)
 
 -----------------------------
 
