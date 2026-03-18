@@ -47,6 +47,7 @@
 - [Pdfescape](https://www.pdfescape.com/online-pdf-editor/) - editor de pdf, tanto estrutura quanto conteúdo;
 - [Languagetool](https://languagetool.org/pt-BR) - corretor de gramática e ortografia;
 - [Claude](https://claude.ai/chat/) - ia recomendada pra estudos e correção de códigos
+- [UfabcCronos](https://ufabccronos.vercel.app/) - organizador de matrículas e grade
 
 
 ----------------------------
