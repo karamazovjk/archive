@@ -21,7 +21,7 @@
 ----------------------------
 ### ler e/ou baixar livros, artigos e papers
 
-- [Anna's Archive]((https://annas-archive.gl/))
+- [Anna's Archive]((https://annas-archive.org/))
 - [Biblioteca Mundial](https://bibliotecamundial.com.br/)
 - [Archive](https://archive.org/)
 - [Substack](https//substack.com)
@@ -36,6 +36,8 @@
 - [Kupdf](https://kupdf.net/)
 - [Getty Publications](https://www.getty.edu/publications/virtuallibrary/index.html)
 - [BNDigital](https://bndigital.bn.gov.br/)
+- [Bloomlibrary](https://bloomlibrary.org/)
+- [Digilibraries](https://digilibraries.com/)
 
   
 ---------------------------
