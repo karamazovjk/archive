@@ -21,7 +21,7 @@
 ----------------------------
 ### ler e/ou baixar livros, artigos e papers
 
-- [Anna's Archive]((https://annas-archive.pk/))
+- [Anna's Archive](https://br.annas-archive.pk/)
 - [Biblioteca Mundial](https://bibliotecamundial.com.br/)
 - [Archive](https://archive.org/)
 - [Substack](https//substack.com)
