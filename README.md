@@ -1,6 +1,6 @@
 # [acervo de links]
 
-**O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias.
+**O objetivo desse repositório é registrar ferramentas úteis, gratuitas e acessíveis. Estarei constantemente atualizando com novos conteúdos assim como arquivos completos e guias.**
 
 °❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°°❀⋆.ೃ࿔.*:･･:*.ೃ࿔.⋆❀°
 ### cursos e treinamentos
