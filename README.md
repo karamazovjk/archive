@@ -60,6 +60,9 @@
 - [Jailbreak Kindle 10º](/jailbreak) 
 - [World Monitor](https://tech.worldmonitor.app/?lat=20.0000&lon=0.0000&zoom=1.00&view=global&timeRange=7d&layers=outages%2Cdatacenters%2Cnatural%2Caccelerators%2CtechEvents)
 - [ArchLinux](https://archlinux.org/)
+- [Dicionário para e-reader](https://www.reader-dict.com/pt/download/pt) + [Tutorial de instalação](https://github.com/koreader/koreader/wiki/Dictionary-support#how-to-install-a-dictionary)
+- [Download wikipédia para uso offline](https://browse.library.kiwix.org/#lang=por&q=wikipedia)
+- [ASCII art para terminal](https://www.asciiart.eu/gallery)
 
 -----------------------------
 
