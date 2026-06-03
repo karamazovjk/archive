@@ -24,7 +24,7 @@
 - [Anna's Archive](https://br.annas-archive.pk/)
 - [Biblioteca Mundial](https://bibliotecamundial.com.br/)
 - [Archive](https://archive.org/)
-- [Substack](https//substack.com)
+- [Substack](https://substack.com/)
 - [Research Gate](https://www.researchgate.net/)
 - [Academia.edu](https://www.academia.edu/)
 - [Welib](https://welib.org/)
