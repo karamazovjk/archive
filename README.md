@@ -56,6 +56,7 @@
 
 <h3 align="center">utilidades</h3>
 
+- [Storytold](https://github.com/storytold)
 - [Arch Linux](https://archlinux.org/)
 - [ASCII art para terminal](https://www.asciiart.eu/gallery)
 - [Dicionário para e-reader](https://www.reader-dict.com/pt/download/pt) + [tutorial de instalação](https://github.com/koreader/koreader/wiki/Dictionary-support#how-to-install-a-dictionary)
